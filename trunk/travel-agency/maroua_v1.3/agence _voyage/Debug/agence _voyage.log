@@ -1,0 +1,33 @@
+﻿Build started 18/06/2012 23:53:20.
+     1>Project "D:\cours ing\Mini projet C++\agence _voyage\agence _voyage\agence _voyage.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\agence _voyage.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\client.h(55): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(56): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(58): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(72): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(78): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(80): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\agence.h(94): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\main.cpp(13): warning C4101: 'id' : unreferenced local variable
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\main.cpp(13): warning C4101: 'x' : unreferenced local variable
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\main.cpp(14): warning C4101: 'ch1' : unreferenced local variable
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\main.cpp(14): warning C4101: 'ch2' : unreferenced local variable
+     1>d:\cours ing\mini projet c++\agence _voyage\agence _voyage\main.cpp(14): warning C4101: 'ch' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\agence _voyage.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.lib" /MACHINE:X86 Debug\main.obj
+         LINK : D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.exe not found or not built by the last incremental link; performing full link
+         agence _voyage.vcxproj -> D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\cours ing\Mini projet C++\agence _voyage\Debug\agence _voyage.exe;#1" /manifest "Debug\agence _voyage.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\agence _voyage.unsuccessfulbuild".
+         Touching "Debug\agence _voyage.lastbuildstate".
+     1>Done Building Project "D:\cours ing\Mini projet C++\agence _voyage\agence _voyage\agence _voyage.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
