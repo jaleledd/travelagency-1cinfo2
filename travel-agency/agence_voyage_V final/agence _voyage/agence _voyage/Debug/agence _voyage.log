@@ -1,0 +1,17 @@
+﻿Build started 23/06/2012 12:12:34.
+     1>Project "C:\Users\pc\Desktop\agence _voyage\agence _voyage\agence _voyage.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\agence _voyage.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         agence _voyage.vcxproj -> C:\Users\pc\Desktop\agence _voyage\Debug\agence _voyage.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\agence _voyage.unsuccessfulbuild".
+         Touching "Debug\agence _voyage.lastbuildstate".
+     1>Done Building Project "C:\Users\pc\Desktop\agence _voyage\agence _voyage\agence _voyage.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
